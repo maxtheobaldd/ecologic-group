@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Ecologic Group
 tagline: Creating the perfect working environment.
-featuredImage: /assets/van3.png
+featuredImage: /assets/van-1-.png
 cta:
   ctaText: About Us
   ctaLink: /about
